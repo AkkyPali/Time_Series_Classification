@@ -5,3 +5,5 @@ Due to their natural temporal ordering, time-series data are present in almost e
 This project reviews the most successful deep learning applications in various time series domains under a unified taxonomy of DNNs for Time-series Classification. I will close by discussing one application in depth: Gesture Recognition
 
 This report first summarizes each paper, and it has been broken down into subtopics to improve readability, and criticism is added towards the end of each summary. The last paper is a deep dive into the application of Time Series Classification to incorporate learning real-world application. The report concludes with how each paper and their topics are relevant to coursework in Pattern Analysis &amp; Machine intelligence. 
+
+Read Full paper here: https://docs.google.com/document/d/e/2PACX-1vR4Q27TbpNy7iYD_obBOXNbYFrBGSXtw55xiskSK5Rgite0ya6dq5nv4wlMAWFw0tGpn679R8ElSeAd/pub
